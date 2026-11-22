@@ -43,6 +43,10 @@ h1{font-size:1.5rem;font-weight:600;line-height:1.25;margin:0}
 h2{font:400 .8125rem/1.4 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);
    margin:3.75rem 0 1.25rem;padding-top:1.5rem;border-top:1px solid var(--rule)}
 p{margin:0 0 1rem}
+main ul:not(.find){list-style:none;margin:0 0 1rem;padding:0}
+main ul:not(.find) li{position:relative;padding-left:1.1rem;margin:0 0 1rem}
+main ul:not(.find) li:last-child{margin-bottom:0}
+main ul:not(.find) li::before{content:"";position:absolute;left:0;top:.65em;width:5px;height:5px;background:var(--muted)}
 ul.find{list-style:none;margin:0;padding:0}
 ul.find a{display:grid;grid-template-columns:5.5rem 1fr auto;column-gap:.75rem;align-items:baseline;
   padding:.45rem 0;color:var(--ink);text-decoration:none}

@@ -26,9 +26,8 @@ uraal.online is where the scattered parts connect.
 
 ## Now
 
-▪ Leading the revamp of a national messaging platform: migration onto purpose-built infrastructure, and a software redesign around observability.
-
-▪ Building Goldfish, an LLM-driven context-aware personal journal that talks back. Designed to extend human memory, deepen reflection, connect ideas, and sharpen thinking, not replace it.
+- Leading the revamp of a national messaging platform: migration onto purpose-built infrastructure, and a software redesign around observability.
+- Building Goldfish, an LLM-driven context-aware personal journal that talks back. Designed to extend human memory, deepen reflection, connect ideas, and sharpen thinking, not replace it.
 
 ## Contact
 
