@@ -24,6 +24,12 @@ uraal.online is where the scattered parts connect.
 - [CV](/cv.pdf): Experience and background.
 - [Flickr](https://www.flickr.com/photos/horaceholly/albums/72177720335754232/): Photography, as Horace Holly.
 
+## Now
+
+▪ Leading the revamp of a national messaging platform: migration onto purpose-built infrastructure, and a software redesign around observability.
+
+▪ Building Goldfish, an LLM-driven context-aware personal journal that talks back. Designed to extend human memory, deepen reflection, connect ideas, and sharpen thinking, not replace it.
+
 ## Contact
 
 Email [asif.tyro@gmail.com](mailto:asif.tyro@gmail.com)
